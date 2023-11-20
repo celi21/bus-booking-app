@@ -13,7 +13,7 @@ function Home() {
       <Row className="mt-4">
         <Col className="col-12 col-lg-6 d-flex flex-column justify-content-center">
           <h1>Bus Booking System</h1>
-          <h4>Book tickets at your fingertips. Hassle free.</h4>
+          <h4>Book tickets hoe.</h4>
           <Link to="/booking">
             <Button
               variant="primary"
